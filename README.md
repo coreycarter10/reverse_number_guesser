@@ -1,4 +1,3 @@
-A sample command-line application.
+# Reverse Number Guesser
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Console application that allows the computer to guess the number you've thought of between 1 and 100.
